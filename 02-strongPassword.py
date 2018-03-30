@@ -1,9 +1,6 @@
 '''
 Practice Project 02: Strong Password
 
-Implemented by: Benjamin Lazaro III
-Date: 03/31/2018
-
 Objective(s):
 - Write a function that uses regular expression to make sure that the password string is strong.
     - At least 8 characters long
